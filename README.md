@@ -1,1 +1,1 @@
-For the final project of my microprocessors class, students were tasked to create a 3d Scanner using a various components connected to a Texas Instruments MSP-EXP432E401Y development board. This was my implementation.
+For the final project of my microprocessors class, students were tasked to create a 3d Scanner using a various components connected to a Texas Instruments MSP-EXP432E401Y development board. The final report also serves as a datasheet for the project.
